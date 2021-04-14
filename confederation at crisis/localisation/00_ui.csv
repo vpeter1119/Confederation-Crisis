@@ -5750,6 +5750,7 @@ STAT_PIETY_DESC_PURITY;Purity is respected by the clergy and monks of the Jain r
 STAT_PIETY_HONOR;Honor;Honneur;Ehre;;Honor;;;;;;;;;x
 STAT_PIETY_KARMA;Karma;Karma;Karma;;Karma;;;;;;;;;x
 STAT_PIETY_MENU;§YPiety§!;§YPiété§!;§YPietät§!;;§YPiedad§!;;;;;;;;;x
+STAT_PIETY_MENU_CREDIBILITY;§YCredibility§!;§YCrédibilité§!;§YGlaubwürdigkeit§!;;§YCredibilidad§!;;;;;;;;;x
 STAT_PIETY_MENU_HONOR;§YHonor§!;§YHonneur§!;§YEhre§!;;§YHonor§!;;;;;;;;;x
 STAT_PIETY_MENU_KARMA;§YKarma§!;§YKarma§!;§YKarma§!;;§YKarma§!;;;;;;;;;x
 STAT_PIETY_MENU_PIETY_TE;Te;Te;Te;;Te;;;;;;;;;x
